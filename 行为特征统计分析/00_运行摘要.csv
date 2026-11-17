@@ -1,0 +1,14 @@
+﻿项目,数值
+输入文件,/Users/bytedance/Desktop/配对关系.csv
+输出文件夹,/Users/bytedance/Desktop/第六章_行为特征统计结果
+CSV编码,utf-8-sig
+总行数,2085004
+命中行数,6165
+命中行比例,0.0029568288598007487
+基准相似度阈值,0.6
+基准耦合强度阈值,10
+总引用槽位数,12330
+有效引用功能槽位数,12330
+有效引用位置槽位数,12274
+scipy是否可用,True
+统计口径说明,每条命中记录的 Classification1/Classification2 分别计入引用功能；Section1/Section2 分别计入引用位置；不去重。
