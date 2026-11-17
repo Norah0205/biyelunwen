@@ -1,0 +1,62 @@
+{
+  "n_labeled": 330,
+  "accuracy_on_stratified_sample": 0.6727272727272727,
+  "macro_f1": 0.6228630746195821,
+  "kappa_on_stratified_sample": 0.49252456215292606,
+  "classification_report": {
+    "negative": {
+      "precision": 0.28888888888888886,
+      "recall": 0.8387096774193549,
+      "f1-score": 0.4297520661157025,
+      "support": 31.0
+    },
+    "neutral": {
+      "precision": 0.6416666666666667,
+      "recall": 0.6015625,
+      "f1-score": 0.6209677419354839,
+      "support": 128.0
+    },
+    "positive": {
+      "precision": 0.9916666666666667,
+      "recall": 0.695906432748538,
+      "f1-score": 0.8178694158075601,
+      "support": 171.0
+    },
+    "accuracy": 0.6727272727272727,
+    "macro avg": {
+      "precision": 0.6407407407407407,
+      "recall": 0.7120595367226311,
+      "f1-score": 0.6228630746195821,
+      "support": 330.0
+    },
+    "weighted avg": {
+      "precision": 0.7898905723905724,
+      "recall": 0.6727272727272727,
+      "f1-score": 0.7050359246073379,
+      "support": 330.0
+    }
+  },
+  "confusion_matrix_order": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "confusion_matrix": [
+    [
+      26,
+      5,
+      0
+    ],
+    [
+      50,
+      77,
+      1
+    ],
+    [
+      14,
+      38,
+      119
+    ]
+  ],
+  "note": "Validation was stratified by predicted class; prioritize classwise metrics and macro-F1."
+}

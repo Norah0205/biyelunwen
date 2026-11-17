@@ -1,0 +1,69 @@
+{
+  "corpus_records": 7868,
+  "split": {
+    "train": 6294,
+    "validation": 787,
+    "test": 787
+  },
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "metrics": {
+    "accuracy": 0.8869123252858958,
+    "macro_f1": 0.6362672146082284,
+    "weighted_f1": 0.8894430890138795,
+    "kappa": 0.5263588536806372
+  },
+  "classification_report": {
+    "negative": {
+      "precision": 0.3333333333333333,
+      "recall": 0.4444444444444444,
+      "f1-score": 0.38095238095238093,
+      "support": 27.0
+    },
+    "neutral": {
+      "precision": 0.946980854197349,
+      "recall": 0.9386861313868613,
+      "f1-score": 0.9428152492668622,
+      "support": 685.0
+    },
+    "positive": {
+      "precision": 0.5972222222222222,
+      "recall": 0.5733333333333334,
+      "f1-score": 0.5850340136054422,
+      "support": 75.0
+    },
+    "accuracy": 0.8869123252858958,
+    "macro avg": {
+      "precision": 0.6258454699176349,
+      "recall": 0.652154636388213,
+      "f1-score": 0.6362672146082284,
+      "support": 787.0
+    },
+    "weighted avg": {
+      "precision": 0.8925966350595308,
+      "recall": 0.8869123252858958,
+      "f1-score": 0.8894430890138795,
+      "support": 787.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      12,
+      12,
+      3
+    ],
+    [
+      16,
+      643,
+      26
+    ],
+    [
+      8,
+      24,
+      43
+    ]
+  ]
+}

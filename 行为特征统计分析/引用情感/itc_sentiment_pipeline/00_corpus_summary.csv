@@ -1,0 +1,7 @@
+﻿metric,value
+download_url,https://awaisathar.com/citation-sentiment-corpus/citation_sentiment_corpus.zip
+raw_records,8736
+clean_records,7868
+negative,264
+neutral,6854
+positive,750

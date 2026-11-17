@@ -1,0 +1,7 @@
+﻿metric,value
+pair_records,6165
+sentence_instances,12330
+unique_sentences,2228
+review_sentences,499
+low_confidence_unique,241
+predicted_negative_unique,90
