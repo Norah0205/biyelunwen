@@ -1,0 +1,11 @@
+2026-10-15 14:00:25,615 ERROR 运行失败
+Traceback (most recent call last):
+  File "/Users/bytedance/Desktop/1015引用强度/citation_intensity_tool/run_analysis.py", line 295, in main
+    result = run(inp, out)
+  File "/Users/bytedance/Desktop/1015引用强度/citation_intensity_tool/run_analysis.py", line 219, in run
+    (pair_rec, pair_info), cite_sources, map_df = choose_sources(records, output_dir)
+  File "/Users/bytedance/Desktop/1015引用强度/citation_intensity_tool/run_analysis.py", line 144, in choose_sources
+    raise ValueError("；".join(reasons) + "。已生成字段映射模板；请在脚本顶部 field_overrides 填写实际列名。")
+ValueError: 唯一配对sheet数量应为1，实际为0；未识别到引用内容sheet。已生成字段映射模板；请在脚本顶部 field_overrides 填写实际列名。
+2026-10-15 14:16:14,334 INFO 完成：/Users/bytedance/Desktop/1015引用强度/引用强度分析输出
+2026-10-15 14:24:43,282 INFO 完成：/Users/bytedance/Desktop/1015引用强度/引用强度分析输出

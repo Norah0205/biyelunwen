@@ -1,0 +1,15 @@
+﻿file,sheet,likely_role,canonical_field,candidates,confirmed_column_fill_here,status
+引用内容.xlsx,引用内容_有效保留,引用内容,A,文献A_WOSID | 文献A题目,,不唯一
+引用内容.xlsx,引用内容_有效保留,引用内容,B,,,缺失
+引用内容.xlsx,引用内容_有效保留,引用内容,C,,,缺失
+引用内容.xlsx,引用内容_有效保留,引用内容,citing_id,,,缺失
+引用内容.xlsx,引用内容_有效保留,引用内容,cited_id,,,缺失
+引用内容.xlsx,引用内容_有效保留,引用内容,citation_text,引用句,,唯一
+引用内容.xlsx,引用内容_有效保留,引用内容,citation_count,引用次数,,唯一
+隐形三角引用数据.xlsx,Sheet1,待确认,A,文献A_WOSID | 文献A题目,,不唯一
+隐形三角引用数据.xlsx,Sheet1,待确认,B,,,缺失
+隐形三角引用数据.xlsx,Sheet1,待确认,C,,,缺失
+隐形三角引用数据.xlsx,Sheet1,待确认,citing_id,,,缺失
+隐形三角引用数据.xlsx,Sheet1,待确认,cited_id,,,缺失
+隐形三角引用数据.xlsx,Sheet1,待确认,citation_text,引用句1 | 引用句2,,不唯一
+隐形三角引用数据.xlsx,Sheet1,待确认,citation_count,,,缺失
