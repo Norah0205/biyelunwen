@@ -1,0 +1,2 @@
+﻿match_level,normalized_citing_D,normalized_cited_A,collapsed_raw_pair_count,raw_pairs,diagnosis
+保守规范化,d1,x,2,D-1||X | D1||X,不同原始ID文献对坍缩为同一规范化键

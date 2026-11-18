@@ -1,0 +1,7 @@
+﻿citing_id,cited_id,citation_text,citation_count,source_file,source_sheet,source_row,citation_text_norm,citation_count_numeric,pair_id,match_level,match_reason,cited_A_in_pair_scope,citing_D_in_pair_scope,citing_D,cited_A,pair_key
+456,123,B句1,2,引用内容.xlsx,Sheet1,2,b句1,2,0,纯数字去前导零,匹配成功,True,True,000456,000123,000456||000123
+456,123,B句2,3,引用内容.xlsx,Sheet1,4,b句2,3,0,纯数字去前导零,匹配成功,True,True,000456,000123,000456||000123
+789,123,C句1,2,引用内容.xlsx,Sheet1,5,c句1,2,1,纯数字去前导零,匹配成功,True,True,000789,000123,000789||000123
+789,123,C句2,2,引用内容.xlsx,Sheet1,6,c句2,2,1,纯数字去前导零,匹配成功,True,True,000789,000123,000789||000123
+D21,A002,b,1,引用内容.xlsx,Sheet1,8,b,1,4,原值,匹配成功,True,True,D21,A002,D21||A002
+D22,A002,c,1,引用内容.xlsx,Sheet1,9,c,1,5,原值,匹配成功,True,True,D22,A002,D22||A002

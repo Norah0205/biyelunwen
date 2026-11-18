@@ -1,0 +1,9 @@
+﻿pair_id,citing_D,cited_A,pair_key,reported_count_values,reported_count_mode,reported_count_min,reported_count_max,reported_count_internal_consistent,reported_count,unique_strength,strength_minus_reported_count,strength_count_consistency,triple_membership_count,membership_rows,sides_used
+0,000456,000123,000456||000123,2 | 3,2.0,2.0,3.0,False,2.0,2,0.0,一致,3,3,B | C
+1,000789,000123,000789||000123,2,2.0,2.0,2.0,True,2.0,2,0.0,一致,1,1,C
+2,D30,000123,D30||000123,,,,,,,0,,缺少reported count,1,1,C
+3,D40,000123,D40||000123,,,,,,,0,,缺少reported count,1,1,B
+4,D21,A002,D21||A002,1,1.0,1.0,1.0,True,1.0,1,0.0,一致,1,1,B
+5,D22,A002,D22||A002,1,1.0,1.0,1.0,True,1.0,1,0.0,一致,1,1,C
+6,D-1,X,D-1||X,,,,,,,0,,缺少reported count,1,1,B
+7,D1,X,D1||X,,,,,,,0,,缺少reported count,1,1,C

@@ -1,0 +1,6 @@
+﻿A,B,C,AB_pair_id,AC_pair_id,AB_unique_strength,AB_reported_count_values,AB_reported_count_mode,AB_reported_count_min,AB_reported_count_max,AB_reported_count_internal_consistent,AB_reported_count,AB_strength_minus_reported_count,AB_strength_count_consistency,AC_unique_strength,AC_reported_count_values,AC_reported_count_mode,AC_reported_count_min,AC_reported_count_max,AC_reported_count_internal_consistent,AC_reported_count,AC_strength_minus_reported_count,AC_strength_count_consistency,AB_strength,AC_strength,H3_bilateral_sustained_use,BC_deduplicated_text_intersection,BC_text_intersection_ratio_to_min,I_min,I_mean,I_total,absolute_gap,D_norm,S_intensity
+000123,000456,000789,0,1,2,2 | 3,2.0,2.0,3.0,False,2.0,0.0,一致,2,2,2.0,2.0,2.0,True,2.0,0.0,一致,2,2,True,0,0.0,2,2.0,4,0,0.0,1.0
+000123,000456,D30,0,2,2,2 | 3,2.0,2.0,3.0,False,2.0,0.0,一致,0,,,,,,,,缺少reported count,2,0,False,0,,0,1.0,2,2,1.0,0.0
+000123,D40,000456,3,0,0,,,,,,,,缺少reported count,2,2 | 3,2.0,2.0,3.0,False,2.0,0.0,一致,0,2,False,0,,0,1.0,2,2,1.0,0.0
+A002,D21,D22,4,5,1,1,1.0,1.0,1.0,True,1.0,0.0,一致,1,1,1.0,1.0,1.0,True,1.0,0.0,一致,1,1,False,0,0.0,1,1.0,2,0,0.0,1.0
+X,D-1,D1,6,7,0,,,,,,,,缺少reported count,0,,,,,,,,缺少reported count,0,0,False,0,,0,0.0,0,0,,

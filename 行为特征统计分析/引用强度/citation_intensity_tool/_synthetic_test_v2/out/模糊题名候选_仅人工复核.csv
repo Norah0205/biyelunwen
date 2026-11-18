@@ -1,0 +1,2 @@
+﻿source_row,input_citing_title,input_cited_title,candidate_pair_id,candidate_citing_title,candidate_cited_title,similarity,warning
+51,Citing B zero,Target 0!,0,Citing B 0,Target 0,0.8619,仅供人工复核，未纳入正式结果

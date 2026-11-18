@@ -1,0 +1,15 @@
+﻿文献A_WOSID,文献A_题目,文献D1_WOSID,文献D1_题目,文献D2_WOSID,文献D2_题目,耦合强度,sbert相似度,A分组
+100000,Target 0,200000,Citing B 0,300000,Citing C 0,12,0.8,field0
+100001,Target 1,200001,Citing B 1,300001,Citing C 1,12,0.8,field1
+100002,Target 2,200002,Citing B 2,300002,Citing C 2,12,0.8,field0
+100010,Target 10,乱码-B,Citing B 10,300010,Citing C 10,5,0.8,field0
+100011,Target 11,200011,Citing B 11,300011,Citing C 11,5,0.8,field1
+100012,Target 12,200012,Citing B 12,300012,Citing C 12,5,0.8,field0
+100020,Target 20,200020,Citing B 20,300020,Citing C 20,12,0.4,field0
+100021,Target 21,200021,Citing B 21,300021,Citing C 21,12,0.4,field1
+100022,Target 22,200022,Citing B 22,300022,Citing C 22,12,0.4,field0
+100030,Target 30,200030,Citing B 30,300030,Citing C 30,5,0.4,field0
+100031,Target 31,200031,Citing B 31,300031,Citing C 31,5,0.4,field1
+100032,Target 32,200032,Citing B 32,300032,Citing C 32,5,0.4,field0
+100033,Target 33,200033,Citing B 33,300033,Citing C 33,5,0.4,field1
+100034,Target 34,200034,Citing B 34,300034,Citing C 34,5,0.4,field0

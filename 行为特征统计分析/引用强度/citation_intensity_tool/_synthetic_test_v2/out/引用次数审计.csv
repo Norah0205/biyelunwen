@@ -1,0 +1,29 @@
+﻿pair_id,citing_title_key,cited_title_key,citing_title_key_punctless,cited_title_key_punctless,citing_title_raw,cited_title_raw,citing_id_raw,cited_id_raw,observable,unique_strength,reported_count_values,reported_count,reported_count_min,reported_count_max,reported_count_consistent,strength_minus_reported,triple_membership_count,sides_used
+0,citing b 0,target 0,citingb0,target0,Citing B 0,Target 0,200000,100000,True,4.0,1 | 3,3.0,1.0,3.0,False,1.0,1,B
+1,citing c 0,target 0,citingc0,target0,Citing C 0,Target 0,300000,100000,True,3.0,3,3.0,3.0,3.0,True,0.0,1,C
+2,citing b 1,target 1,citingb1,target1,Citing B 1,Target 1,200001,100001,True,2.0,1,1.0,1.0,1.0,True,1.0,1,B
+3,citing c 1,target 1,citingc1,target1,Citing C 1,Target 1,300001,100001,True,1.0,1,1.0,1.0,1.0,True,0.0,1,C
+4,citing b 2,target 2,citingb2,target2,Citing B 2,Target 2,200002,100002,True,1.0,1,1.0,1.0,1.0,True,0.0,1,B
+5,citing c 2,target 2,citingc2,target2,Citing C 2,Target 2,300002,100002,True,1.0,1,1.0,1.0,1.0,True,0.0,1,C
+6,citing b 10,target 10,citingb10,target10,Citing B 10,Target 10,乱码-B,100010,True,3.0,3,3.0,3.0,3.0,True,0.0,1,B
+7,citing c 10,target 10,citingc10,target10,Citing C 10,Target 10,300010,100010,True,3.0,3,3.0,3.0,3.0,True,0.0,1,C
+8,citing b 11,target 11,citingb11,target11,Citing B 11,Target 11,200011,100011,True,1.0,1,1.0,1.0,1.0,True,0.0,1,B
+9,citing c 11,target 11,citingc11,target11,Citing C 11,Target 11,300011,100011,True,1.0,1,1.0,1.0,1.0,True,0.0,1,C
+10,citing b 12,target 12,citingb12,target12,Citing B 12,Target 12,200012,100012,True,1.0,1,1.0,1.0,1.0,True,0.0,1,B
+11,citing c 12,target 12,citingc12,target12,Citing C 12,Target 12,300012,100012,True,1.0,1,1.0,1.0,1.0,True,0.0,1,C
+12,citing b 20,target 20,citingb20,target20,Citing B 20,Target 20,200020,100020,True,3.0,3,3.0,3.0,3.0,True,0.0,1,B
+13,citing c 20,target 20,citingc20,target20,Citing C 20,Target 20,300020,100020,True,3.0,3,3.0,3.0,3.0,True,0.0,1,C
+14,citing b 21,target 21,citingb21,target21,Citing B 21,Target 21,200021,100021,True,1.0,1,1.0,1.0,1.0,True,0.0,1,B
+15,citing c 21,target 21,citingc21,target21,Citing C 21,Target 21,300021,100021,True,1.0,1,1.0,1.0,1.0,True,0.0,1,C
+16,citing b 22,target 22,citingb22,target22,Citing B 22,Target 22,200022,100022,True,1.0,1,1.0,1.0,1.0,True,0.0,1,B
+17,citing c 22,target 22,citingc22,target22,Citing C 22,Target 22,300022,100022,True,1.0,1,1.0,1.0,1.0,True,0.0,1,C
+18,citing b 30,target 30,citingb30,target30,Citing B 30,Target 30,200030,100030,True,3.0,3,3.0,3.0,3.0,True,0.0,1,B
+19,citing c 30,target 30,citingc30,target30,Citing C 30,Target 30,300030,100030,True,3.0,3,3.0,3.0,3.0,True,0.0,1,C
+20,citing b 31,target 31,citingb31,target31,Citing B 31,Target 31,200031,100031,True,1.0,1,1.0,1.0,1.0,True,0.0,1,B
+21,citing c 31,target 31,citingc31,target31,Citing C 31,Target 31,300031,100031,True,1.0,1,1.0,1.0,1.0,True,0.0,1,C
+22,citing b 32,target 32,citingb32,target32,Citing B 32,Target 32,200032,100032,True,1.0,1,1.0,1.0,1.0,True,0.0,1,B
+23,citing c 32,target 32,citingc32,target32,Citing C 32,Target 32,300032,100032,True,1.0,1,1.0,1.0,1.0,True,0.0,1,C
+24,citing b 33,target 33,citingb33,target33,Citing B 33,Target 33,200033,100033,True,3.0,3,3.0,3.0,3.0,True,0.0,1,B
+25,citing c 33,target 33,citingc33,target33,Citing C 33,Target 33,300033,100033,True,3.0,3,3.0,3.0,3.0,True,0.0,1,C
+26,citing b 34,target 34,citingb34,target34,Citing B 34,Target 34,200034,100034,False,,,,,,,,1,B
+27,citing c 34,target 34,citingc34,target34,Citing C 34,Target 34,300034,100034,False,,,,,,,,1,C

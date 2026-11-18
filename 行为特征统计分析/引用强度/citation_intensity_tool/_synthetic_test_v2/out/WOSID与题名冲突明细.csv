@@ -1,0 +1,2 @@
+﻿citing_id,cited_id,citing_title,cited_title,citation_text,citation_count,source_row,pair_id,match_level,match_reason,wosid_conflict,wosid_conflict_detail,citation_text_norm
+200000,100000,Citing B 1,Target 1,conflict-retained,1,48,2.0,题名保守精确,匹配成功（WOSID冲突但保留题名）,True,WOSID指向pair=0，题名指向pair=2；保留题名结果,conflict-retained

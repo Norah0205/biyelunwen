@@ -1,0 +1,3 @@
+﻿citing_id,cited_id,citing_title,cited_title,citation_text,citation_count,source_row,pair_id,match_level,match_reason,wosid_conflict,wosid_conflict_detail,citation_text_norm
+200000,100000,Citing B 0,,id-only-must-not-match,1,49,,不可匹配,施引或被引题名缺失,False,题名缺失，不回退WOSID,id-only-must-not-match
+坏ID2,坏ID,Citing B zero,Target 0!,fuzzy,1,51,,未匹配,题名对未找到,False,,fuzzy

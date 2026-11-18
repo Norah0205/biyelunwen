@@ -1,0 +1,15 @@
+﻿triple_id,A_id,B_id,C_id,A_title,B_title,C_title,coupling,similarity,基础_A分组,group,AB_pair_id,AB_observable,AB_strength,AB_reported_count,AC_pair_id,AC_observable,AC_strength,AC_reported_count,bilateral_observable,I_min,I_mean,I_total,absolute_gap,D_norm,S_intensity,complete_equal,gap_le_1,bilateral_ge_2,H3_combo
+1,100000,200000,300000,Target 0,Citing B 0,Citing C 0,12,0.8,field0,Q11,0,True,4.0,3.0,1,True,3.0,3.0,True,3.0,3.5,7.0,1.0,0.14285714285714285,0.8571428571428571,0.0,1.0,1.0,双侧>=2
+2,100001,200001,300001,Target 1,Citing B 1,Citing C 1,12,0.8,field1,Q11,2,True,2.0,1.0,3,True,1.0,1.0,True,1.0,1.5,3.0,1.0,0.3333333333333333,0.6666666666666666,0.0,1.0,0.0,仅B>=2
+3,100002,200002,300002,Target 2,Citing B 2,Citing C 2,12,0.8,field0,Q11,4,True,1.0,1.0,5,True,1.0,1.0,True,1.0,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0.0,双侧<2
+4,100010,乱码-B,300010,Target 10,Citing B 10,Citing C 10,5,0.8,field0,Q10,6,True,3.0,3.0,7,True,3.0,3.0,True,3.0,3.0,6.0,0.0,0.0,1.0,1.0,1.0,1.0,双侧>=2
+5,100011,200011,300011,Target 11,Citing B 11,Citing C 11,5,0.8,field1,Q10,8,True,1.0,1.0,9,True,1.0,1.0,True,1.0,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0.0,双侧<2
+6,100012,200012,300012,Target 12,Citing B 12,Citing C 12,5,0.8,field0,Q10,10,True,1.0,1.0,11,True,1.0,1.0,True,1.0,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0.0,双侧<2
+7,100020,200020,300020,Target 20,Citing B 20,Citing C 20,12,0.4,field0,Q01,12,True,3.0,3.0,13,True,3.0,3.0,True,3.0,3.0,6.0,0.0,0.0,1.0,1.0,1.0,1.0,双侧>=2
+8,100021,200021,300021,Target 21,Citing B 21,Citing C 21,12,0.4,field1,Q01,14,True,1.0,1.0,15,True,1.0,1.0,True,1.0,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0.0,双侧<2
+9,100022,200022,300022,Target 22,Citing B 22,Citing C 22,12,0.4,field0,Q01,16,True,1.0,1.0,17,True,1.0,1.0,True,1.0,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0.0,双侧<2
+10,100030,200030,300030,Target 30,Citing B 30,Citing C 30,5,0.4,field0,Q00,18,True,3.0,3.0,19,True,3.0,3.0,True,3.0,3.0,6.0,0.0,0.0,1.0,1.0,1.0,1.0,双侧>=2
+11,100031,200031,300031,Target 31,Citing B 31,Citing C 31,5,0.4,field1,Q00,20,True,1.0,1.0,21,True,1.0,1.0,True,1.0,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0.0,双侧<2
+12,100032,200032,300032,Target 32,Citing B 32,Citing C 32,5,0.4,field0,Q00,22,True,1.0,1.0,23,True,1.0,1.0,True,1.0,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0.0,双侧<2
+13,100033,200033,300033,Target 33,Citing B 33,Citing C 33,5,0.4,field1,Q00,24,True,3.0,3.0,25,True,3.0,3.0,True,3.0,3.0,6.0,0.0,0.0,1.0,1.0,1.0,1.0,双侧>=2
+14,100034,200034,300034,Target 34,Citing B 34,Citing C 34,5,0.4,field0,Q00,26,False,,,27,False,,,False,,,,,,,,,,不可观测
