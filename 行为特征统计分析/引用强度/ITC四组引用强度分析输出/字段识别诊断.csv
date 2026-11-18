@@ -1,0 +1,15 @@
+﻿source_role,canonical_field,candidates,status,all_columns
+完整配对,A_id,文献A_WOSID,唯一,文献A_WOSID | 文献A题目 | 文献D1_WOSID | 文献D1题目 | Section1 | Classification1 | 引用句1 | 文献D1参考文献 | 文献D2_WOSID | 文献D2题目 | Section2 | Classification2 | 引用句2 | 文献D2参考文献 | 耦合强度 | sbert相似度
+完整配对,B_id,文献D1_WOSID,唯一,文献A_WOSID | 文献A题目 | 文献D1_WOSID | 文献D1题目 | Section1 | Classification1 | 引用句1 | 文献D1参考文献 | 文献D2_WOSID | 文献D2题目 | Section2 | Classification2 | 引用句2 | 文献D2参考文献 | 耦合强度 | sbert相似度
+完整配对,C_id,文献D2_WOSID,唯一,文献A_WOSID | 文献A题目 | 文献D1_WOSID | 文献D1题目 | Section1 | Classification1 | 引用句1 | 文献D1参考文献 | 文献D2_WOSID | 文献D2题目 | Section2 | Classification2 | 引用句2 | 文献D2参考文献 | 耦合强度 | sbert相似度
+完整配对,A_title,文献A题目,唯一,文献A_WOSID | 文献A题目 | 文献D1_WOSID | 文献D1题目 | Section1 | Classification1 | 引用句1 | 文献D1参考文献 | 文献D2_WOSID | 文献D2题目 | Section2 | Classification2 | 引用句2 | 文献D2参考文献 | 耦合强度 | sbert相似度
+完整配对,B_title,文献D1题目,唯一,文献A_WOSID | 文献A题目 | 文献D1_WOSID | 文献D1题目 | Section1 | Classification1 | 引用句1 | 文献D1参考文献 | 文献D2_WOSID | 文献D2题目 | Section2 | Classification2 | 引用句2 | 文献D2参考文献 | 耦合强度 | sbert相似度
+完整配对,C_title,文献D2题目,唯一,文献A_WOSID | 文献A题目 | 文献D1_WOSID | 文献D1题目 | Section1 | Classification1 | 引用句1 | 文献D1参考文献 | 文献D2_WOSID | 文献D2题目 | Section2 | Classification2 | 引用句2 | 文献D2参考文献 | 耦合强度 | sbert相似度
+完整配对,coupling,耦合强度,唯一,文献A_WOSID | 文献A题目 | 文献D1_WOSID | 文献D1题目 | Section1 | Classification1 | 引用句1 | 文献D1参考文献 | 文献D2_WOSID | 文献D2题目 | Section2 | Classification2 | 引用句2 | 文献D2参考文献 | 耦合强度 | sbert相似度
+完整配对,similarity,sbert相似度,唯一,文献A_WOSID | 文献A题目 | 文献D1_WOSID | 文献D1题目 | Section1 | Classification1 | 引用句1 | 文献D1参考文献 | 文献D2_WOSID | 文献D2题目 | Section2 | Classification2 | 引用句2 | 文献D2参考文献 | 耦合强度 | sbert相似度
+引用内容,citing_id,文献D_WOSID,唯一,文献A_WOSID | 文献A题目 | 文献D_WOSID | 文献D题目 | 引用次数 | 蓝条名称 | Section | Classification | 引用句
+引用内容,cited_id,文献A_WOSID,唯一,文献A_WOSID | 文献A题目 | 文献D_WOSID | 文献D题目 | 引用次数 | 蓝条名称 | Section | Classification | 引用句
+引用内容,citing_title,文献D题目,唯一,文献A_WOSID | 文献A题目 | 文献D_WOSID | 文献D题目 | 引用次数 | 蓝条名称 | Section | Classification | 引用句
+引用内容,cited_title,文献A题目,唯一,文献A_WOSID | 文献A题目 | 文献D_WOSID | 文献D题目 | 引用次数 | 蓝条名称 | Section | Classification | 引用句
+引用内容,citation_text,引用句,唯一,文献A_WOSID | 文献A题目 | 文献D_WOSID | 文献D题目 | 引用次数 | 蓝条名称 | Section | Classification | 引用句
+引用内容,citation_count,引用次数,唯一,文献A_WOSID | 文献A题目 | 文献D_WOSID | 文献D题目 | 引用次数 | 蓝条名称 | Section | Classification | 引用句
